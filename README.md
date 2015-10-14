@@ -1,4 +1,4 @@
-appdemo
+Angular Quiz Version 2
 =======
 
-app demo
+This is a application for Quiz Game.
